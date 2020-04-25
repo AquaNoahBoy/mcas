@@ -1,0 +1,6 @@
+{
+	"parent": "cosmetics/blueears",
+	"textures":{
+		"voxels_palette": "items/custom/limeears"
+	}
+}

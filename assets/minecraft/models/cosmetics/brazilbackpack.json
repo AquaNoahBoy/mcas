@@ -2989,6 +2989,12 @@
 		}
 	],
 	"display": {
+		"firstperson_righthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		},
 		"gui": {
 			"rotation":  [ 0, 38, 0 ],
 			"translation":  [ -2.086, 0, 0 ]

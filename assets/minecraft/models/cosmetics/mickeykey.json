@@ -405,13 +405,14 @@
 			"translation":  [ 1.3913, 0, -2.782 ]
 		},
 		"gui": {
-			"rotation":  [ 17, -34, 0 ]
+			"rotation":  [ 17, -34, 0 ],
+			"scale":  [ 1.4, 1.4, 1.4 ]
 		},
 		"ground": {
 			"translation":  [ 0, 2.0869, 0 ]
 		},
 		"fixed": {
-			"scale":  [ 1.5, 1.5, 1.5 ]
+			"scale":  [ 2, 2, 2 ]
 		}
 	}
 }

@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
 		"voxels_palette": "items/hp"
 	},
 	"elements": [ 	 
@@ -22,7 +20,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 1.4, 0, 5.8 ],
-			"to": [ 2, 0.4, 6.6 ],
+			"to": [ 2, 0.4, 6.599999 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -152,7 +150,7 @@
 		{
 			"__comment": "Voxels-029493",
 			"from": [ 2, 0, 5.8 ],
-			"to": [ 12.6, 0.2, 6.6 ],
+			"to": [ 12.6, 0.2, 6.599999 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -620,7 +618,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 3.4, 0.2, 8.599999 ],
-			"to": [ 4.6, 0.4, 9.4 ],
+			"to": [ 4.599999, 0.4, 9.4 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -776,7 +774,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 3.8, 0.2, 6.8 ],
-			"to": [ 5, 0.4, 7.6 ],
+			"to": [ 5, 0.4, 7.599999 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1127,7 +1125,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 5.8, 0.2, 6.8 ],
-			"to": [ 7, 0.4, 7.2 ],
+			"to": [ 7, 0.4, 7.199999 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1218,7 +1216,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 7.4, 0.2, 9.8 ],
-			"to": [ 8.599999, 0.4, 10.4 ],
+			"to": [ 8.599998, 0.4, 10.4 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1270,7 +1268,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 8, 0.2, 6.8 ],
-			"to": [ 9.2, 0.4, 7.6 ],
+			"to": [ 9.2, 0.4, 7.599999 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1920,7 +1918,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 12.6, 0, 5.8 ],
-			"to": [ 13.2, 0.4, 6.6 ],
+			"to": [ 13.2, 0.4, 6.599999 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1971,6 +1969,16 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 14.608, 0 ],
+			"scale":  [ 1.75, 1.75, 1.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 14.608, 0 ],
+			"scale":  [ 1.75, 1.75, 1.75 ]
+		},
 		"head": {
 			"rotation":  [ 90, 0, 180 ],
 			"translation":  [ -0.695, 19.477, 0 ],
