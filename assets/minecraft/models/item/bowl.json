@@ -29,8 +29,8 @@
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "cosmetics/brazilbackpack"
-        },
+            "model": "cosmetics/minniedoll"
+		},
         {
             "predicate": {
                 "custom_model_data": 6
@@ -299,7 +299,7 @@
             "predicate": {
                 "custom_model_data": 50
             },
-            "model": "cosmetics/poncho"
+            "model": "cosmetics/mickeydoll"
 		},
 		{
             "predicate": {
@@ -329,7 +329,7 @@
             "predicate": {
                 "custom_model_data": 55
             },
-            "model": "cosmetics/teamcaptain"
+            "model": "cosmetics/remy"
 		},
 		{
             "predicate": {
@@ -353,7 +353,7 @@
             "predicate": {
                 "custom_model_data": 59
             },
-            "model": "cosmetics/trackpack"
+            "model": "cosmetics/command"
 		},
 		{
             "predicate": {
@@ -521,7 +521,7 @@
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "cosmetics/walkietalkie"
+            "model": "cosmetics/sebastian"
 		},
 		{
             "predicate": {
@@ -605,7 +605,7 @@
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "cosmetics/glove"
+            "model": "cosmetics/lgm"
 		},
 		{
             "predicate": {
@@ -647,7 +647,7 @@
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "cosmetics/stopsign"
+            "model": "cosmetics/stossign"
 		},
 		{
             "predicate": {
@@ -659,7 +659,7 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "cosmetics/futurama"
+            "model": "cosmetics/angryhat"
 		},
 		{
             "predicate": {
@@ -761,7 +761,55 @@
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "cosmetics/speedhat"
+            "model": "cosmetics/aviators"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "cosmetics/ttdummy"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "cosmetics/sixtieth"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "cosmetics/donaldcap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "cosmetics/plutocap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "cosmetics/goofycap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "cosmetics/mushu"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "cosmetics/tintoy"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "cosmetics/pascal"
 		}
-    ]
+	]
 }
