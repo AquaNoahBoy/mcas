@@ -6129,6 +6129,16 @@
 		}
 	],
 	"display": {
+		"thirdperson_lefthand": {
+			"translation":  [ 0, 4.1738, -0.695 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
 		"gui": {
 			"rotation":  [ 9, -106, 0 ],
 			"translation":  [ 0, 2.7825, 0 ]
@@ -6140,6 +6150,10 @@
 		},
 		"ground": {
 			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 2.7826, 0 ]
 		}
 	}
 }

@@ -810,6 +810,18 @@
                 "custom_model_data": 135
             },
             "model": "cosmetics/pascal"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "cosmetics/ortensiapink"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "cosmetics/glowhb"
 		}
 	]
 }
