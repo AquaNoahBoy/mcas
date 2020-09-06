@@ -1,6 +1,0 @@
-{
-	"parent": "cosmetics/ortensiahb",
-	"textures":{
-		"voxels_palette": "items/custom/ortensia1"
-	}
-}
