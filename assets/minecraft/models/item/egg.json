@@ -1,0 +1,95 @@
+{
+    "parent": "item/default_egg",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "eggs/eggone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "eggs/eggtwo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "eggs/eggthree"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "eggs/eggfour"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "eggs/eggfive"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "eggs/eggsix"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "eggs/eggseven"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "eggs/eggeight"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "eggs/eggnine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "eggs/eggten"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "eggs/eggeleven"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "eggs/eggtwelve"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "eggs/eggthirteen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "eggs/eggfourteen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "eggs/eggfifteen"
+        }
+    ]
+}
